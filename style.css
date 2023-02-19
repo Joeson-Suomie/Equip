@@ -1,0 +1,105 @@
+*
+{
+margin: 0px;
+padding: 0px;
+box-sizing: border-box;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+  background-color: #333;
+  height: 60px;
+}
+nav .logo p{ cursor:pointer;
+	font-size: 30px;letter-spacing: 1.5;
+	font-weight: bold; float:left;color:white;text-transform: uppercase;color:green;
+}
+nav li {
+  float: right;letter-spacing: 1.5;
+
+}
+
+nav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+li a:hover {
+  background-color: grey;
+}
+.hd1
+{
+	text-align: center; text-transform: uppercase;margin-top:30px; font-size: 40px;letter-spacing: 1.5; 
+
+}
+
+.p1 p{background-color: black; margin-top:20px;letter-spacing: 1.5;
+     font-size: 30px;color:white; text-align: center; text-transform: uppercase;
+    }
+
+ .con{margin-top:20px;letter-spacing: 1.5; text-align: center; text-transform: uppercase;font-size: 30px;
+    }
+
+ .abt{argin-top:20px;letter-spacing: 1.5; text-align: center; text-transform: uppercase;font-size: 30px;background-color: blue;
+
+ }
+ .gal{argin-top:20px;letter-spacing: 1.5; text-align: center; text-transform: uppercase;font-size: 30px;
+
+ }
+ .table{
+ 	letter-spacing: 1.5; text-align: center; text-transform: uppercase;font-size: 30px;background-color: dimgray;
+     border-style: ridge; 
+ }
+
+
+ }
+ .dis{
+ 	letter-spacing: 1.5;font-size: 20px; font-style: vardana; color:;
+ }
+ h3
+ {
+ 	letter-spacing: 1.5;font-size: 20px; font-style: vardana; text-transform: uppercase;
+
+ }
+ .tbl1{
+ 	letter-spacing: 1.5; text-align: center; text-transform: uppercase;font-size: 30px;background-color: dimgray;
+     border-style: ridge; color:white;
+ }
+ .mission{ margin-top: 40px;
+ 	letter-spacing: 1.5;font-size: 20px; font-style: vardana; margin-left: 10.5px;
+ }
+ h4{
+letter-spacing: 1.5;font-size: 20px; font-style: vardana; text-transform: uppercase; text-align: center;
+ }
+.po{
+	letter-spacing: 1.5;font-size: 20px; font-style: vardana; text-justify: auto;margin-left: 10.5px;
+}
+.tbl{
+	 uppercase;font-size: 30px;align-content: center;
+}
+.footer {
+  
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  color: white;
+  text-align: center;
+  height:60px;margin-top: 3px;
+  letter-spacing: 1.5;font-size: 20px; font-style: vardana;
+}
+.dis p{
+	margin-left:10px;
+}
+.ltbl
+{
+	uppercase;font-size: 30px;align-content: center; text-align: center;text-transform: uppercase;background-color: grey;color: white;
+
+}
